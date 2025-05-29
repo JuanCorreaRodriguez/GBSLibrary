@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GBSLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab65c70e940a1a8a15699ba514cbd0b5ef9ba3ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dc8fe45b72a9ede8ebb1774af6519996538ac8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("GBSLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GBSLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

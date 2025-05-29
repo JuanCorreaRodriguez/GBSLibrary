@@ -1,0 +1,12 @@
+C:\Users\jose-\source\repos\GlamBeautyApi\GBSLibrary\obj\Debug\net9.0\GBSLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose-\source\repos\GlamBeautyApi\GBSLibrary\obj\Debug\net9.0\GBSLibrary.AssemblyInfoInputs.cache
+C:\Users\jose-\source\repos\GlamBeautyApi\GBSLibrary\obj\Debug\net9.0\GBSLibrary.AssemblyInfo.cs
+C:\Users\jose-\source\repos\GlamBeautyApi\GBSLibrary\obj\Debug\net9.0\GBSLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jose-\source\repos\GlamBeautyApi\GBSLibrary\obj\Debug\net9.0\GBSLibrary.sourcelink.json
+C:\Users\jose-\source\repos\GlamBeautyApi\GBSLibrary\bin\Debug\net9.0\GBSLibrary.deps.json
+C:\Users\jose-\source\repos\GlamBeautyApi\GBSLibrary\bin\Debug\net9.0\GBSLibrary.dll
+C:\Users\jose-\source\repos\GlamBeautyApi\GBSLibrary\bin\Debug\net9.0\GBSLibrary.pdb
+C:\Users\jose-\source\repos\GlamBeautyApi\GBSLibrary\obj\Debug\net9.0\GBSLibrary.dll
+C:\Users\jose-\source\repos\GlamBeautyApi\GBSLibrary\obj\Debug\net9.0\refint\GBSLibrary.dll
+C:\Users\jose-\source\repos\GlamBeautyApi\GBSLibrary\obj\Debug\net9.0\GBSLibrary.pdb
+C:\Users\jose-\source\repos\GlamBeautyApi\GBSLibrary\obj\Debug\net9.0\ref\GBSLibrary.dll
